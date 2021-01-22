@@ -1,9 +1,6 @@
 <div align="center">
 
-  <h1><code>substrate-stencil</code></h1>
-
-  <strong>A template for kick starting a Rust and Blockchain project using <a href="https://github.com/paritytech/substrate">Substrate</a>.</strong>
-
+  <h1><code>Pentatonic POS chain</code></h1>
   <h3>
     <a href="https://substrate.dev/">Docs</a>
     <span> | </span>
